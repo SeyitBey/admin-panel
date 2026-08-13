@@ -1,0 +1,8 @@
+debug: false
+language: "tr"
+security:
+  prevent-self-action: true
+  explicit-deny-priority: true
+  ip-permission-node: "adminpanel.profile.ip"
+punishment:
+  provider: "AUTO"

@@ -1,0 +1,7 @@
+staff-roles:
+  rehber:
+    display-name: "<green>Rehber</green>"
+    priority: 10
+  admin:
+    display-name: "<red>Admin</red>"
+    priority: 100

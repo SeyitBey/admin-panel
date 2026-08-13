@@ -1,0 +1,14 @@
+name: AdminPanel
+version: '1.0.0-SNAPSHOT'
+main: com.example.adminpanel.AdminPanelPlugin
+api-version: '1.21'
+author: AdminPanel Team
+softdepend: [LuckPerms, Essentials, PlaceholderAPI]
+commands:
+  adminpanel:
+    description: AdminPanel ana komutu
+    aliases: [ap]
+    permission: adminpanel.use
+  report:
+    description: Kural ihlali yapan oyunculari bildirir
+    aliases: [sikayet]

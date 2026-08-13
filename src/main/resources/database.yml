@@ -1,0 +1,4 @@
+type: "SQLITE"
+sqlite:
+  file: "adminpanel.db"
+  use-wal-mode: true

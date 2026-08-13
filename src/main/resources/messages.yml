@@ -1,0 +1,3 @@
+prefix: "<gradient:#00FFAA:#0088FF><bold>ADMINPANEL</bold></gradient> <dark_gray>»</dark_gray> "
+general:
+  no-permission: "<red>Bu islemi gerceklestirmek icin yetkiniz yok!</red>"
